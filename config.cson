@@ -1,0 +1,50 @@
+"*":
+  linter:
+    showErrorInline: true
+    statusBar: "Show all errors"
+  "exception-reporting":
+    userId: "84d720ef-e899-9a27-7aa1-48fcadaddde6"
+  welcome:
+    showOnStartup: false
+  core:
+    disabledPackages: [
+      "jsformat"
+      "minimap"
+      "minimap-find-and-replace"
+      "jslint"
+      "method-separator"
+    ]
+    themes: [
+      "seti-ui"
+      "glitterbomb"
+    ]
+    autoHideMenuBar: true
+  editor:
+    fontSize: 14
+    showInvisibles: true
+    showIndentGuide: true
+    preferredLineLength: 120
+    tabLength: 4
+    invisibles: {}
+  minimap:
+    plugins:
+      "find-and-replace": true
+  "find-and-replace":
+    openProjectFindResultsInRightPane: true
+  "atom-beautify":
+    _analyticsUserId: "bdf528ac-1cc7-4c25-801f-a982e18d276e"
+    js_indent_size: 4
+    js_indent_with_tabs: true
+    js_jslint_happy: true
+    js_keep_array_indentation: true
+    js_keep_function_indentation: true
+  jsformat:
+    indent_with_tabs: true
+    jslint_happy: true
+    keep_array_indentation: true
+    keep_function_indentation: true
+    space_after_anon_function: true
+  jslint:
+    validateOnChange: true
+  jshint:
+    validateOnlyOnSave: true
