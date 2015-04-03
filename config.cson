@@ -26,6 +26,7 @@
     preferredLineLength: 120
     tabLength: 4
     invisibles: {}
+    fontFamily: "SourceCodePro-Medium"
   minimap:
     plugins:
       "find-and-replace": true
@@ -34,7 +35,7 @@
   "atom-beautify":
     _analyticsUserId: "bdf528ac-1cc7-4c25-801f-a982e18d276e"
     js_indent_size: 4
-    js_indent_with_tabs: true
+    js_indent_with_tabs: false
     js_jslint_happy: true
     js_keep_array_indentation: true
     js_keep_function_indentation: true
@@ -48,3 +49,8 @@
     validateOnChange: true
   jshint:
     validateOnlyOnSave: true
+  "linter-jshint": {}
+  "autocomplete-plus": {}
+".ini.source":
+  editor:
+    preferredLineLength: 120
