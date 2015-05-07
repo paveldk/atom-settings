@@ -1,0 +1,34 @@
+{
+  "name": "glitterbomb",
+  "theme": "syntax",
+  "version": "0.2.0",
+  "description": "A glitter explosion in your Atom text editor.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robmclarty/glitterbomb"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "readme": "# Glitterbomb Atom Theme\n\nA glitter explosion in your Atom text editor.\n\n#### Javascript\n\n![Glitterbomb Javascript](http://robmclarty.com/static/glitterbomb/glitterbomb-javascript.png)\n\n#### Ruby\n\n![Glitterbomb Ruby](http://robmclarty.com/static/glitterbomb/glitterbomb-ruby.png)\n\n#### HAML\n\n![Glitterbomb Haml](http://robmclarty.com/static/glitterbomb/glitterbomb-haml.png)\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/robmclarty/glitterbomb/issues"
+  },
+  "homepage": "https://github.com/robmclarty/glitterbomb",
+  "_id": "glitterbomb@0.2.0",
+  "_shasum": "17dec4c13705d0ae246e64486cd657dae83ee8a4",
+  "_resolved": "file:../d-115125-690-7ms6o6/package.tgz",
+  "_from": "../d-115125-690-7ms6o6/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
